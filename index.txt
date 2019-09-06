@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="C:\Users\БайназарС\Desktop\examen\style\style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="C:\Users\БайназарС\Desktop\examen\img\logo.png" alt="gitf-shop" class="logo">
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <a href="#">Sell</a>
+                    </li>
+                    <li>
+                        <a href="#">Registry</a>
+                    </li>
+                    <li>
+                        <a href="#">Community</a>
+                    </li>
+                    <li>
+                        <a href="#">Blogs</a>
+                    </li>
+                    <li>
+                        <a href="#">Mobile</a>
+                    </li>
+                    <li>
+                        <a href="#">Gift Carts</a>
+                    </li>
+                </ul>
+                <div class="box1">
+                    <ul class="box-menu">
+                        <li>
+                            <a href="#">Register </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="box2">
+                        <ul class="box-menu">
+                            <li>
+                                <a href="#">Sign in </a>
+                            </li>
+                        </ul>
+                </div>
+                <div class="box3">
+                        <ul class="box-menu">
+                            <li>
+                                <a href="#">whislost </a>
+                            </li>
+                        </ul>
+                </div>
+                <div class="box4">
+                        <ul class="box-menu">
+                            <li>
+                                <a href="#">card </a>
+                            </li>
+                        </ul>
+                </div>
+                    
+               
+            </nav>  
+            <div>
+                <div class="down-box">
+                    
+                </div>
+            </div>       
+        </div>
+    </header>
+    
+</body>
+</html>

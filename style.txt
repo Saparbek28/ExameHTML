@@ -1,0 +1,94 @@
+.container{
+    width: 1110px;
+    border: 10px;
+    margin: 0 auto;
+}
+header{
+height: 600px;
+}
+
+div{
+    box-sizing: border-box;
+}
+.logo{
+    margin-top: 11px;
+    float: left;
+}
+nav{
+    float: right;
+}
+
+.menu{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li{
+    float: left;
+    display: block;
+    margin-right: 11px;
+}
+.menu li a{
+    color: #555555;
+}
+
+.box1{
+    width: 100px;
+    height: 70px;
+    line-height: 50px;
+    text-align: center;
+    padding: 0;
+    vertical-align: middle;
+    background: #05aecc;
+    float: left;
+    
+}
+.box-menu{
+    display: block;
+    margin-top: 10px;
+    padding: 0;
+    color: white;
+}
+
+.box2{
+    float: right;
+    width: 100px;
+    height: 70px;
+    line-height: 50px;
+    text-align: center;
+    padding: 0;
+    vertical-align: middle;
+    background: #f0626e;
+    
+}
+.box3{
+    float: right;
+    width: 100px;
+    height: 70px;
+    line-height: 50px;
+    text-align: center;
+    padding: 0;
+    vertical-align: middle;
+    background: #05aecc;
+    
+}
+.box4{
+    float: right;
+    width: 100px;
+    height: 70px;
+    line-height: 50px;
+    text-align: center;
+    padding: 0;
+    vertical-align: middle;
+    background: #f0626e;
+    
+}
+
+.down-box{
+    width: 1150px;
+    height: 100px;
+    margin: 100px 0 0 0;
+    float: left;
+    background: #05aecc;
+}
